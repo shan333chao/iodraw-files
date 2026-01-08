@@ -26,8 +26,11 @@
         <mxCell id="AL-I7MNrvjsjAjapyfVo-7" value="入厂" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="100" y="31" width="75" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AL-I7MNrvjsjAjapyfVo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-2" source="AL-I7MNrvjsjAjapyfVo-10" target="AL-I7MNrvjsjAjapyfVo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AL-I7MNrvjsjAjapyfVo-10" value="访客" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="100" y="240" width="65" height="61" as="geometry" />
+          <mxGeometry x="30" y="240" width="65" height="61" as="geometry" />
         </mxCell>
         <mxCell id="AL-I7MNrvjsjAjapyfVo-11" value="小程序预约" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="180" y="247.5" width="80" height="46" as="geometry" />
