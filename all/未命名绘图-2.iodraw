@@ -62,7 +62,7 @@
         <mxCell id="4dr6qi2BZbHD-zZJ061T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-4" source="4dr6qi2BZbHD-zZJ061T-20" target="4dr6qi2BZbHD-zZJ061T-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-20" value="司机到厂预约" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="4dr6qi2BZbHD-zZJ061T-20" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="20" y="44" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4dr6qi2BZbHD-zZJ061T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-4" source="4dr6qi2BZbHD-zZJ061T-22" target="4dr6qi2BZbHD-zZJ061T-24" edge="1">
