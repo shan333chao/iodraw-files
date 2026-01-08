@@ -13,7 +13,7 @@
         <mxCell id="77e6c97f196da883-8" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;开始&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="35" y="69" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-9" value="SAP创建订单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-9" value="自助机登记" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="149" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OOBwNOfVSzvE5ilnWfUE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" target="77e6c97f196da883-9" edge="1">
@@ -26,7 +26,7 @@
         <mxCell id="77e6c97f196da883-3" value="无人值守平台" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="190" y="20" width="360" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-1" value="同步SAP 订单和计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
+        <mxCell id="4dr6qi2BZbHD-zZJ061T-1" value="获取派车单" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="90" y="29" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4dr6qi2BZbHD-zZJ061T-5" value="选择计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
