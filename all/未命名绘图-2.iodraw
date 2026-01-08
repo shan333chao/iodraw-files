@@ -35,7 +35,7 @@
         <mxCell id="4dr6qi2BZbHD-zZJ061T-4" value="&lt;div&gt;自动录入车检信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="75" y="229" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-6" value="创建派车单" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
+        <mxCell id="4dr6qi2BZbHD-zZJ061T-6" value="确认安全公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="75" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4dr6qi2BZbHD-zZJ061T-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-3" source="4dr6qi2BZbHD-zZJ061T-1" target="4dr6qi2BZbHD-zZJ061T-5" edge="1">
