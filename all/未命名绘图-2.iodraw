@@ -71,6 +71,9 @@
         <mxCell id="4dr6qi2BZbHD-zZJ061T-22" value="门岗车检" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="20" y="139" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AL-I7MNrvjsjAjapyfVo-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="30" y="529" width="100" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="OOBwNOfVSzvE5ilnWfUE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="4dr6qi2BZbHD-zZJ061T-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
