@@ -65,11 +65,6 @@
         <mxCell id="4dr6qi2BZbHD-zZJ061T-20" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="20" y="44" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-4" source="4dr6qi2BZbHD-zZJ061T-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="239" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4dr6qi2BZbHD-zZJ061T-22" value="门岗车检" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="20" y="139" width="120" height="60" as="geometry" />
         </mxCell>
@@ -86,7 +81,7 @@
         <mxCell id="4dr6qi2BZbHD-zZJ061T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="4dr6qi2BZbHD-zZJ061T-6" target="4dr6qi2BZbHD-zZJ061T-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" target="4dr6qi2BZbHD-zZJ061T-26" edge="1">
+        <mxCell id="4dr6qi2BZbHD-zZJ061T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="4dr6qi2BZbHD-zZJ061T-22" target="4dr6qi2BZbHD-zZJ061T-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="289" as="sourcePoint" />
           </mxGeometry>
@@ -96,9 +91,6 @@
         </mxCell>
         <mxCell id="4dr6qi2BZbHD-zZJ061T-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="70" y="44" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4dr6qi2BZbHD-zZJ061T-33" value="是" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
-          <mxGeometry x="70" y="190" width="120" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
